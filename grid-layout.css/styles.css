@@ -66,9 +66,9 @@ body {
     margin-left: 10%;
     margin-right: 60%;
     margin-top: 10%;
-    border: 3px solid black;
-    padding: 20px;
-    height: 250px;
+    border: 3px ridge black;
+    padding: 20px ;
+    height: 260px;
     width: 25%;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
                 inset rgb(4, 53, 73) 10px 10px 25px;
@@ -89,12 +89,13 @@ body {
 
 .second {
     background-color: #0B87BA;
-    margin-left: 41%;
+    margin-left: 38%;
     margin-right: 30%;
-    margin-top: -19.2%;
-    border: 3px solid black;
+    margin-top: -15.9%;
+    border: 3px ridge black;
+    width: auto;
     padding: 20px;
-    padding-bottom: 4em;
+    padding-bottom: 5em;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
                 inset rgb(4, 53, 73) 10px 10px 25px;
 
@@ -111,15 +112,15 @@ body {
 
 .third {
     background-color: #0B87BA;
-    margin-left: 41%;
+    margin-left: 38%;
     margin-right: 30%;
-    margin-top: 1%;
-    border: 3px solid black;
+    margin-top: -0.9%;
+    border: 3px ridge black;
+    width: auto
     padding: 20px;
-    padding-bottom: 4em;
+    padding-bottom: 5em;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
                 inset rgb(4, 53, 73) 10px 10px 25px;
-
 }
 
 .third h2 {
@@ -134,9 +135,9 @@ body {
 .fourth {
     background-color: #0B87BA;
     margin-left: 10%;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-right: 30%;
-    border: 3px solid black;
+    border: 3px ridge black;
     padding: 20px;
     padding-bottom: 2em;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
