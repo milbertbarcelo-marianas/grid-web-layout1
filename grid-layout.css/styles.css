@@ -67,7 +67,7 @@ body {
     margin-right: 60%;
     margin-top: 10%;
     border: 3px ridge black;
-    padding: 20px ;
+    padding: 20px;
     height: 260px;
     width: 25%;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
@@ -91,11 +91,11 @@ body {
     background-color: #0B87BA;
     margin-left: 38%;
     margin-right: 30%;
-    margin-top: -15.9%;
+    margin-top: -15.94%;
     border: 3px ridge black;
     width: auto;
     padding: 20px;
-    padding-bottom: 5em;
+    padding-bottom: 6em;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
                 inset rgb(4, 53, 73) 10px 10px 25px;
 
@@ -118,7 +118,7 @@ body {
     border: 3px ridge black;
     width: auto;
     padding: 20px;
-    padding-bottom: 5em;
+    padding-bottom: 6em;
     box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
                 inset rgb(4, 53, 73) 10px 10px 25px;
 }
