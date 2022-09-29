@@ -1,0 +1,64 @@
+.grid-content {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: darkblue;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.grid-content > div {
+    row-gap: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    background-color: 
+    border-radius: 15px;
+}
+
+
+
+.item1 {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: #add8e6;
+    box-shadow: inset rgb(68, 85, 90) -10px -10px 25px,
+                inset rgb(68, 85, 90) 10px 10px 25px;
+}
+
+.item1 h2 {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.item1 ul li {
+    list-style: square;
+}
+
+.item2 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    background-color: #9bddff;    
+    box-shadow: inset rgb(61, 87, 100) -10px -10px 25px,
+                inset rgb(61, 87, 100) 10px 10px 25px;
+}
+
+.item3 {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    background-color: #73C2FB;
+    box-shadow: inset rgb(45, 76, 98) -10px -10px 25px,
+                inset rgb(45, 76, 98) 10px 10px 25px;
+}
+
+.item4 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    background-color: #5d8aa8;
+    
+    box-shadow: inset rgb(36, 54, 66) -10px -10px 25px,
+                inset rgb(36, 54, 66) 10px 10px 25px;
+}
+
