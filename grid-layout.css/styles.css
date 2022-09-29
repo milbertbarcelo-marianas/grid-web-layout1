@@ -62,7 +62,7 @@ body {
 }
 
 .first {
-    background-color: #0B87BA;
+    background-color: #add8e6;
     margin-left: 10%;
     margin-right: 60%;
     margin-top: 10%;
@@ -70,8 +70,8 @@ body {
     padding: 20px;
     height: 260px;
     width: 25%;
-    box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
-                inset rgb(4, 53, 73) 10px 10px 25px;
+    box-shadow: inset rgb(68, 85, 90) -10px -10px 25px,
+                inset rgb(68, 85, 90) 10px 10px 25px;
                 
 
 }
@@ -88,7 +88,7 @@ body {
 }
 
 .second {
-    background-color: #0B87BA;
+    background-color: #9bddff;
     margin-left: 38%;
     margin-right: 30%;
     margin-top: -15.94%;
@@ -96,8 +96,8 @@ body {
     width: auto;
     padding: 20px;
     padding-bottom: 6em;
-    box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
-                inset rgb(4, 53, 73) 10px 10px 25px;
+    box-shadow: inset rgb(61, 87, 100) -10px -10px 25px,
+                inset rgb(61, 87, 100) 10px 10px 25px;
 
 }
 
@@ -111,7 +111,7 @@ body {
 }
 
 .third {
-    background-color: #0B87BA;
+    background-color: #73C2FB;
     margin-left: 38%;
     margin-right: 30%;
     margin-top: 0.7%;
@@ -119,8 +119,8 @@ body {
     width: auto;
     padding: 20px;
     padding-bottom: 6em;
-    box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
-                inset rgb(4, 53, 73) 10px 10px 25px;
+    box-shadow: inset rgb(45, 76, 98) -10px -10px 25px,
+                inset rgb(45, 76, 98) 10px 10px 25px;
 }
 
 .third h2 {
@@ -133,15 +133,15 @@ body {
 }
 
 .fourth {
-    background-color: #0B87BA;
+    background-color: #5d8aa8;
     margin-left: 10%;
     margin-top: 1%;
     margin-right: 30%;
     border: 3px ridge black;
     padding: 20px;
     padding-bottom: 2em;
-    box-shadow: inset rgb(4, 53, 73) -10px -10px 25px,
-                inset rgb(4, 53, 73) 10px 10px 25px;
+    box-shadow: inset rgb(36, 54, 66) -10px -10px 25px,
+                inset rgb(36, 54, 66) 10px 10px 25px;
 }
 
 .fourth h2 {
