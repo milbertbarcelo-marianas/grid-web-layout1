@@ -1,10 +1,20 @@
 body {
-    background-image: url(/images/The\ Great\ Wave\ Off\ Kanagawa.jpg);
-    background-repeat: repeat;
-    background-attachment: fixed;
     max-width: 946px;
     margin: auto;
     font-family: cursive, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bg::before {
+    content: "";
+    background-image: url(/images/The\ Great\ Wave\ Off\ Kanagawa.jpg);
+    position: fixed;
+    background-size: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 50%;
 }
 
 .grid-content {
