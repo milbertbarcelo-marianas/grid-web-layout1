@@ -8,7 +8,8 @@ body {
     content: "";
     background-image: url(/images/The\ Great\ Wave\ Off\ Kanagawa.jpg);
     position: fixed;
-    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
     top: 0;
     left: 0;
     bottom: 0;
